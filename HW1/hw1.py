@@ -1,4 +1,4 @@
-import imageTools
+import HW1.imageTools as imageTools
 import math
 
 
